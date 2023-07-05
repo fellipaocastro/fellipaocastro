@@ -1,7 +1,7 @@
 ## Fellipão Castro ✊🏽
 <div>
- <a href="https://github.com/fellipecastro"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipecastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipecastro&layout=compact&langs_count=8&theme=dracula"/>
+ <a href="https://github.com/fellipaocastro"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipaocastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipaocastro&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -31,5 +31,5 @@
   <a href="https://www.kaggle.com/fellipaocastro" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=Kaggle&amp;logoColor=white" target="_blank"></a>
  <!--a href = "mailto:fellipao.castro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a--> 
  
- ![Snake animation](https://github.com/fellipecastro/fellipecastro/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/fellipaocastro/fellipaocastro/blob/output/github-contribution-grid-snake.svg)
 </div>
